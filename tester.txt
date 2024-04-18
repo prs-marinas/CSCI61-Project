@@ -1,12 +1,1 @@
-**** copy paste into terminal ****
-
-
-Get --- with auth token
-
-
-
-Get --- without auth token
-
-
-
-Post --- using pdf generator (no auth token needed)
+deez nuts
